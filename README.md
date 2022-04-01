@@ -1,10 +1,88 @@
-### Hi there 👋
+### Hey there, I'm Sara! 👋
+
+A senior Computer Science student who loves to use the art of programming, and gets excited by having new challenges that takes me out of my comfort zone. mainly Interested in ReactJS, and Front-End technologies.
+As a multipotentialite I tried different fields like Game Developing and working with Hardware and low level stuff in my graduation project, Although I enjoyed them I admire the web development field as I always wanted to create websites since I was a kid!
+
+### Connect with me:
+
+[<img align="left" alt="saraatq | email" width="22px" src="Gmail.png" />](mailto:ssaaratarek@gmail.com)
+[<img align="left" alt="saraatq | Linkedin" width="22px" src="linkedin.png" />](https://www.linkedin.com/in/sara-tareq/)
+
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Projects
+
+### Web DevOps Projects 
+  1. [Todo List - Docker & Heroku HandsOn](https://github.com/a7medayman6/Todo-List-Dockerized-Flask-WebApp)
+  2. [Hello World from Container - Flask Web App](https://github.com/a7medayman6/Hello-World-From-Container)
+  3. [GoViolin - Go Web App](https://github.com/a7medayman6/GoViolin)
+  4. [OSCGEEKS.ORG - LEMP Web App](https://github.com/a7medayman6/OSCGEEKS.ORG)
+  
+### Python Projects
+  1. [Tiny Git](https://github.com/a7medayman6/Tiny-Git)
+  2. [Virus Detector](https://github.com/a7medayman6/Virus-Detector)
+  3. [Password Manager](https://github.com/a7medayman6/Password-Manager)
+  4. [Simple Linear Regression](https://github.com/a7medayman6/Simple-Linear-Regression)
+  5. [Multi-Variable Linear Regression](https://github.com/a7medayman6/Multi-Variable-Linear-Regression)
+
+### Bash 
+  1. [Self Replicating Virus](https://github.com/a7medayman6/Self-Replicating-Virus)
+  2. Started a bash-jam in [my community](https://oscgeeks.org/) [Bash-Jam](https://github.com/a7medayman6/BASH-JAM-I) 
+  3. [Over The Wire Challenges Writeups](https://github.com/a7medayman6/Over-The-Wire_leviathan-)
+  
+### My LeetCode Algorithms, Database, and Shell problems solutions
+  - [100 Days of LeetCode](https://github.com/a7medayman6/100-Days-of-LeetCode)
+  
+### Algorithms Visualisation </br>
+  1. [Path Finding Combined Algorithms Visualisation](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation)
+  2. [BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) </br>
+  4. [DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) </br>
+  5. [Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).</br>
+ 
+### Web App Peneteration Testing Tools
+  1. [Spider](https://github.com/a7medayman6/Spidering-Tool) 
+  2. [Dirbuster](https://github.com/a7medayman6/dirbuster) 
+  3. [Ping](https://github.com/a7medayman6/Connection-Checker). 
+
+### Android Projects
+  1. [To Do List App](https://github.com/a7medayman6/To-Do-List).
+
+### Some ArtWorks with Processing
+  1. [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
+ 
+### UI design project using Adobe XD
+  1. [TO-DO List](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
+  
+### Games
+  1. [Pong Game using Unity](https://github.com/a7medayman6/Pong-Unity)
+  2. [Trapped - Game Jam project using Unity](https://github.com/a7medayman6/Trapped)
+  3. [Pacman - using C++ and SFML](https://github.com/a7medayman6/PacMan-with-impossible-mode)
+
+### Assembly 
+  1. [Assembly Cheat Sheet](https://github.com/a7medayman6/Assembly-Cheat-Sheet)
+
+<br />
+
+[![Ahmed Ayman's github stats](https://github-readme-stats.vercel.app/api?username=a7medayman6&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/a7medayman6?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medayman6&layout=compact&theme=radical)](https://github.com/a7medayman6?tab=repositories)
 
 <!--
-**saraatq/saraatq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**a7medayman6/a7medayman6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
