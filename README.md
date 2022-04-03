@@ -8,15 +8,16 @@ As a multipotentialite I tried different fields like Game Developing and working
 ## Projects
 
 ### Front-End Projects 
-  - [codecamp-ResponsiveWebDesignProjects](https://github.com/saraatq/codecamp-ResponsiveWebDesignProjects) HTML + CSS
-  - [Bandersnatch Fan Website](https://github.com/Open-Source-Community/Bandersnatch) HTML + CSS + JS
+  - [codecamp-ResponsiveWebDesignProjects](https://github.com/saraatq/codecamp-ResponsiveWebDesignProjects) *HTML + CSS*
+  - [Bandersnatch Fan Website](https://github.com/Open-Source-Community/Bandersnatch) *HTML + CSS + JS*
   
   
 ### Games
-  - [Snake Game](https://github.com/saraatq/snakeGame) python
-  - [Forgger](https://github.com/saraatq/Forgger-game) Unity + C#
-  - [Spiderman-Against-Spoilers](https://github.com/Open-Source-Community/Spiderman-Against-Spoilers) P5.js
-  - [Pacman](https://github.com/saraatq/PacMan-with-impossible-mode) C++ + SFML
+  - [Snake Game](https://github.com/saraatq/snakeGame) *python*
+  - [Forgger](https://github.com/saraatq/Forgger-game) *Unity + C#*
+  - [Trapped](https://github.com/a7medayman6/Trapped) *Unity + C#*
+  - [Spiderman-Against-Spoilers](https://github.com/Open-Source-Community/Spiderman-Against-Spoilers) *P5.js*
+  - [Pacman](https://github.com/saraatq/PacMan-with-impossible-mode)  *C++ + SFML*
 
 
 ### Python Projects
