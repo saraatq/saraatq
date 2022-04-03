@@ -24,6 +24,7 @@ As a multipotentialite I tried different fields like Game Developing and working
   - [Snake Game](https://github.com/saraatq/snakeGame) 
 
 ### other
+  - [LeetCode-StudyPlan](https://github.com/saraatq/LeetCode-StudyPlan)
   - [Prolog](https://github.com/saraatq/Prolog)
   - [credit validation](https://github.com/saraatq/credit-validation) 
 
