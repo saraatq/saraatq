@@ -1,13 +1,12 @@
 ### Hey there, I'm Sara! 👋 
 
-A senior Computer Science student who loves to use the art of programming, and gets excited by having new challenges that takes me out of my comfort zone. mainly Interested in ReactJS, and Front-End technologies.
-As a multipotentialite I tried different fields like Game Developing and working with Hardware and low level stuff in my graduation project, Although I enjoyed them I admire the web development field as I always wanted to create websites since I was a kid!
-
+A senior Computer Science student who loves to use the art of programming, and interested in **ReactJS**, and **Front-End** technologies.
 </br>
 
 ## Projects
 
-### Front-End Projects 
+### Front-End 
+  - [cryptoverse](https://github.com/saraatq/cryptoverse) *Reactjs + Redux*
   - [codecamp-ResponsiveWebDesignProjects](https://github.com/saraatq/codecamp-ResponsiveWebDesignProjects) *HTML + CSS*
   - [Bandersnatch Fan Website](https://github.com/Open-Source-Community/Bandersnatch) *HTML + CSS + JS*
   
@@ -20,11 +19,11 @@ As a multipotentialite I tried different fields like Game Developing and working
   - [Pacman](https://github.com/saraatq/PacMan-with-impossible-mode)  *C++ + SFML*
 
 
-### Python Projects
+### Python
+  - [LeetCode-StudyPlan](https://github.com/saraatq/LeetCode-StudyPlan)
   - [Snake Game](https://github.com/saraatq/snakeGame) 
 
 ### other
-  - [LeetCode-StudyPlan](https://github.com/saraatq/LeetCode-StudyPlan)
   - [Prolog](https://github.com/saraatq/Prolog)
   - [credit validation](https://github.com/saraatq/credit-validation) 
 
@@ -34,7 +33,7 @@ As a multipotentialite I tried different fields like Game Developing and working
 [![Sara Tareq's github stats](https://github-readme-stats.vercel.app/api?username=saraatq&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/saraatq?tab=repositories)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraatq&layout=compact&theme=radical)](https://github.com/saraatq?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraatq&layout=compact&theme=dracula)](https://github.com/saraatq?tab=repositories)
 
 
 ### Connect with ME 📭
