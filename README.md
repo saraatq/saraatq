@@ -1,37 +1,4 @@
-### Hey there, I'm Sara! 👋 
 
-A senior Computer Science student who loves to use the art of programming, and interested in **ReactJS**, and **Front-End** technologies.
-</br>
-
-## Projects
-
-### Front-End 
-  - [cryptoverse](https://github.com/saraatq/cryptoverse) *Reactjs + Redux*
-  - [codecamp-ResponsiveWebDesignProjects](https://github.com/saraatq/codecamp-ResponsiveWebDesignProjects) *HTML + CSS*
-  - [Bandersnatch Fan Website](https://github.com/Open-Source-Community/Bandersnatch) *HTML + CSS + JS*
-  
-  
-### Games
-  - [Snake Game](https://github.com/saraatq/snakeGame) *python*
-  - [Forgger](https://github.com/saraatq/Forgger-game) *Unity + C#*
-  - [Trapped](https://github.com/a7medayman6/Trapped) *Unity + C#*
-  - [Spiderman-Against-Spoilers](https://github.com/Open-Source-Community/Spiderman-Against-Spoilers) *P5.js*
-  - [Pacman](https://github.com/saraatq/PacMan-with-impossible-mode)  *C++ + SFML*
-
-
-### Python
-  - [LeetCode-StudyPlan](https://github.com/saraatq/LeetCode-StudyPlan)
-  - [Snake Game](https://github.com/saraatq/snakeGame) 
-
-### other
-  - [Prolog](https://github.com/saraatq/Prolog)
-  - [credit validation](https://github.com/saraatq/credit-validation) 
-
-</br>
-
-<!--
-[![Sara Tareq's github stats](https://github-readme-stats.vercel.app/api?username=saraatq&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/saraatq?tab=repositories)
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraatq&layout=compact&theme=dracula)](https://github.com/saraatq?tab=repositories)
 
