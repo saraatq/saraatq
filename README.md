@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
- Currently I am:
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > Guess what I'm doing *right now*
+ 
 
-- 👩‍💻 working on *[elysian](https://github.com/saraatq/elysian)*
+- 🏃‍♀️ working on *[elysian](https://github.com/saraatq/elysian)* and getting more excited to see the final output.
 - ✍️ studying ***JS, React.***
-- 🤔 Exploring and reading more about ***Docker.***
-- 📌 improving ***my problem solving skills.***
+- 🤔 Exploring and reading more about ***Docker.*** 🐳
+- 👩‍💻 busy solving a problem on ***leetcode*** **`wish me acceptance.`**
 
 <br>
 
