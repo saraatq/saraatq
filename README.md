@@ -4,7 +4,7 @@
 - 🏃‍♀️ working on *[elysian](https://github.com/saraatq/elysian)* and getting more excited to see the final output.
 - ✍️ studying ***JS, React.***
 - 🤔 Exploring and reading more about ***Docker.*** 🐳
-- 👩‍💻 busy solving a problem on ***leetcode*** **`wish me acceptance.`**
+- 👩‍💻 busy solving a problem on ***leetcode*** **`wish me the green word.`**
 
 <br>
 
